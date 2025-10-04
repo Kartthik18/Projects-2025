@@ -12,3 +12,8 @@ This project trains a **Long Short-Term Memory (LSTM)** neural network to predic
 ## Setup
 ```bash
 pip install tensorflow scikit-learn pandas numpy matplotlib plotly
+
+## Sample Output
+Example predictions from the model are stored in [`output/sample_output.txt`](output/sample_output.txt).
+
+![Prediction Plot](output/pred_vs_actual.png)
